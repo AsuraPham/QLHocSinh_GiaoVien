@@ -1,0 +1,72 @@
+C:\Users\bangpham\Desktop\TTN\Quản lý sinh viên\BLL\bin\Debug\BLL.dll
+C:\Users\bangpham\Desktop\TTN\Quản lý sinh viên\BLL\bin\Debug\BLL.pdb
+C:\Users\bangpham\Desktop\TTN\Quản lý sinh viên\BLL\bin\Debug\DAL.dll
+C:\Users\bangpham\Desktop\TTN\Quản lý sinh viên\BLL\bin\Debug\DTO.dll
+C:\Users\bangpham\Desktop\TTN\Quản lý sinh viên\BLL\bin\Debug\DAL.pdb
+C:\Users\bangpham\Desktop\TTN\Quản lý sinh viên\BLL\bin\Debug\DTO.pdb
+C:\Users\bangpham\Desktop\TTN\Quản lý sinh viên\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\bangpham\Desktop\TTN\Quản lý sinh viên\BLL\obj\Debug\BLL.dll
+C:\Users\bangpham\Desktop\TTN\Quản lý sinh viên\BLL\obj\Debug\BLL.pdb
+C:\Users\Admin\Desktop\QuanLiNhanSu\Quản lý sinh viên\BLL\bin\Debug\BLL.dll
+C:\Users\Admin\Desktop\QuanLiNhanSu\Quản lý sinh viên\BLL\bin\Debug\BLL.pdb
+C:\Users\Admin\Desktop\QuanLiNhanSu\Quản lý sinh viên\BLL\bin\Debug\DAL.dll
+C:\Users\Admin\Desktop\QuanLiNhanSu\Quản lý sinh viên\BLL\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\QuanLiNhanSu\Quản lý sinh viên\BLL\bin\Debug\DAL.pdb
+C:\Users\Admin\Desktop\QuanLiNhanSu\Quản lý sinh viên\BLL\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\QuanLiNhanSu\Quản lý sinh viên\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\QuanLiNhanSu\Quản lý sinh viên\BLL\obj\Debug\BLL.dll
+C:\Users\Admin\Desktop\QuanLiNhanSu\Quản lý sinh viên\BLL\obj\Debug\BLL.pdb
+C:\Users\Admin\Desktop\Bai2\BLL\bin\Debug\BLL.dll
+C:\Users\Admin\Desktop\Bai2\BLL\bin\Debug\BLL.pdb
+C:\Users\Admin\Desktop\Bai2\BLL\bin\Debug\DAL.dll
+C:\Users\Admin\Desktop\Bai2\BLL\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\Bai2\BLL\bin\Debug\DAL.pdb
+C:\Users\Admin\Desktop\Bai2\BLL\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\Bai2\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Bai2\BLL\obj\Debug\BLL.dll
+C:\Users\Admin\Desktop\Bai2\BLL\obj\Debug\BLL.pdb
+C:\Users\bangpham\Desktop\pr2\BLL\bin\Debug\BLL.dll
+C:\Users\bangpham\Desktop\pr2\BLL\bin\Debug\BLL.pdb
+C:\Users\bangpham\Desktop\pr2\BLL\bin\Debug\DAL.dll
+C:\Users\bangpham\Desktop\pr2\BLL\bin\Debug\DTO.dll
+C:\Users\bangpham\Desktop\pr2\BLL\bin\Debug\DAL.pdb
+C:\Users\bangpham\Desktop\pr2\BLL\bin\Debug\DTO.pdb
+C:\Users\bangpham\Desktop\pr2\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\bangpham\Desktop\pr2\BLL\obj\Debug\BLL.dll
+C:\Users\bangpham\Desktop\pr2\BLL\obj\Debug\BLL.pdb
+C:\Users\manht\Desktop\ThucTapNhom\QuanLiHocSinhGiaoVien\BLL\bin\Debug\BLL.dll
+C:\Users\manht\Desktop\ThucTapNhom\QuanLiHocSinhGiaoVien\BLL\bin\Debug\BLL.pdb
+C:\Users\manht\Desktop\ThucTapNhom\QuanLiHocSinhGiaoVien\BLL\bin\Debug\DAL.dll
+C:\Users\manht\Desktop\ThucTapNhom\QuanLiHocSinhGiaoVien\BLL\bin\Debug\DTO.dll
+C:\Users\manht\Desktop\ThucTapNhom\QuanLiHocSinhGiaoVien\BLL\bin\Debug\DAL.pdb
+C:\Users\manht\Desktop\ThucTapNhom\QuanLiHocSinhGiaoVien\BLL\bin\Debug\DTO.pdb
+C:\Users\manht\Desktop\ThucTapNhom\QuanLiHocSinhGiaoVien\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\manht\Desktop\ThucTapNhom\QuanLiHocSinhGiaoVien\BLL\obj\Debug\BLL.dll
+C:\Users\manht\Desktop\ThucTapNhom\QuanLiHocSinhGiaoVien\BLL\obj\Debug\BLL.pdb
+C:\Users\Hung\Desktop\HS_GV\BLL\bin\Debug\BLL.dll
+C:\Users\Hung\Desktop\HS_GV\BLL\bin\Debug\BLL.pdb
+C:\Users\Hung\Desktop\HS_GV\BLL\bin\Debug\DAL.dll
+C:\Users\Hung\Desktop\HS_GV\BLL\bin\Debug\DTO.dll
+C:\Users\Hung\Desktop\HS_GV\BLL\bin\Debug\DAL.pdb
+C:\Users\Hung\Desktop\HS_GV\BLL\bin\Debug\DTO.pdb
+C:\Users\Hung\Desktop\HS_GV\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Hung\Desktop\HS_GV\BLL\obj\Debug\BLL.dll
+C:\Users\Hung\Desktop\HS_GV\BLL\obj\Debug\BLL.pdb
+C:\Users\Admin\Desktop\HS_GV\HS_GV\BLL\bin\Debug\BLL.dll
+C:\Users\Admin\Desktop\HS_GV\HS_GV\BLL\bin\Debug\BLL.pdb
+C:\Users\Admin\Desktop\HS_GV\HS_GV\BLL\bin\Debug\DAL.dll
+C:\Users\Admin\Desktop\HS_GV\HS_GV\BLL\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\HS_GV\HS_GV\BLL\bin\Debug\DAL.pdb
+C:\Users\Admin\Desktop\HS_GV\HS_GV\BLL\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\HS_GV\HS_GV\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\HS_GV\HS_GV\BLL\obj\Debug\BLL.dll
+C:\Users\Admin\Desktop\HS_GV\HS_GV\BLL\obj\Debug\BLL.pdb
+F:\ \HS_GV\HS_GV\BLL\bin\Debug\BLL.dll
+F:\ \HS_GV\HS_GV\BLL\bin\Debug\BLL.pdb
+F:\ \HS_GV\HS_GV\BLL\bin\Debug\DAL.dll
+F:\ \HS_GV\HS_GV\BLL\bin\Debug\DTO.dll
+F:\ \HS_GV\HS_GV\BLL\bin\Debug\DAL.pdb
+F:\ \HS_GV\HS_GV\BLL\bin\Debug\DTO.pdb
+F:\ \HS_GV\HS_GV\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\ \HS_GV\HS_GV\BLL\obj\Debug\BLL.dll
+F:\ \HS_GV\HS_GV\BLL\obj\Debug\BLL.pdb

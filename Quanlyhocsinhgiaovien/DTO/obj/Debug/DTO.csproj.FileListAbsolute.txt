@@ -1,0 +1,30 @@
+C:\Users\bangpham\Desktop\TTN\Quản lý sinh viên\Quanlyhocsinhgiaovien\DTO\bin\Debug\DTO.dll
+C:\Users\bangpham\Desktop\TTN\Quản lý sinh viên\Quanlyhocsinhgiaovien\DTO\bin\Debug\DTO.pdb
+C:\Users\bangpham\Desktop\TTN\Quản lý sinh viên\Quanlyhocsinhgiaovien\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\bangpham\Desktop\TTN\Quản lý sinh viên\Quanlyhocsinhgiaovien\DTO\obj\Debug\DTO.dll
+C:\Users\bangpham\Desktop\TTN\Quản lý sinh viên\Quanlyhocsinhgiaovien\DTO\obj\Debug\DTO.pdb
+C:\Users\Admin\Desktop\QuanLiNhanSu\Quản lý sinh viên\Quanlyhocsinhgiaovien\DTO\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\QuanLiNhanSu\Quản lý sinh viên\Quanlyhocsinhgiaovien\DTO\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\QuanLiNhanSu\Quản lý sinh viên\Quanlyhocsinhgiaovien\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\QuanLiNhanSu\Quản lý sinh viên\Quanlyhocsinhgiaovien\DTO\obj\Debug\DTO.dll
+C:\Users\Admin\Desktop\QuanLiNhanSu\Quản lý sinh viên\Quanlyhocsinhgiaovien\DTO\obj\Debug\DTO.pdb
+C:\Users\Admin\Desktop\Bai2\Quanlyhocsinhgiaovien\DTO\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\Bai2\Quanlyhocsinhgiaovien\DTO\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\Bai2\Quanlyhocsinhgiaovien\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Bai2\Quanlyhocsinhgiaovien\DTO\obj\Debug\DTO.dll
+C:\Users\Admin\Desktop\Bai2\Quanlyhocsinhgiaovien\DTO\obj\Debug\DTO.pdb
+C:\Users\bangpham\Desktop\pr2\Quanlyhocsinhgiaovien\DTO\bin\Debug\DTO.dll
+C:\Users\bangpham\Desktop\pr2\Quanlyhocsinhgiaovien\DTO\bin\Debug\DTO.pdb
+C:\Users\bangpham\Desktop\pr2\Quanlyhocsinhgiaovien\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\bangpham\Desktop\pr2\Quanlyhocsinhgiaovien\DTO\obj\Debug\DTO.dll
+C:\Users\bangpham\Desktop\pr2\Quanlyhocsinhgiaovien\DTO\obj\Debug\DTO.pdb
+C:\Users\manht\Desktop\ThucTapNhom\QuanLiHocSinhGiaoVien\Quanlyhocsinhgiaovien\DTO\bin\Debug\DTO.dll
+C:\Users\manht\Desktop\ThucTapNhom\QuanLiHocSinhGiaoVien\Quanlyhocsinhgiaovien\DTO\bin\Debug\DTO.pdb
+C:\Users\manht\Desktop\ThucTapNhom\QuanLiHocSinhGiaoVien\Quanlyhocsinhgiaovien\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\manht\Desktop\ThucTapNhom\QuanLiHocSinhGiaoVien\Quanlyhocsinhgiaovien\DTO\obj\Debug\DTO.dll
+C:\Users\manht\Desktop\ThucTapNhom\QuanLiHocSinhGiaoVien\Quanlyhocsinhgiaovien\DTO\obj\Debug\DTO.pdb
+C:\Users\Hung\Desktop\HS_GV\Quanlyhocsinhgiaovien\DTO\bin\Debug\DTO.dll
+C:\Users\Hung\Desktop\HS_GV\Quanlyhocsinhgiaovien\DTO\bin\Debug\DTO.pdb
+C:\Users\Hung\Desktop\HS_GV\Quanlyhocsinhgiaovien\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\Hung\Desktop\HS_GV\Quanlyhocsinhgiaovien\DTO\obj\Debug\DTO.dll
+C:\Users\Hung\Desktop\HS_GV\Quanlyhocsinhgiaovien\DTO\obj\Debug\DTO.pdb
